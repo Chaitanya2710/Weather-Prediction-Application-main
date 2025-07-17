@@ -1,1 +1,1 @@
-This are the images which I used in backgroud of my project
+This are the output images of my project
