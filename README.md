@@ -33,15 +33,14 @@ Styles: Custom CSS (Bootstrap if added)
 
 Weather-Prediction-Application-main/
 │
-├── index.html          # Main HTML file
-├── style.css           # Styling (CSS / Bootstrap if used)
-├── script.js           # JavaScript logic & API integration
+├── index.html          
+├── style.css           
+├── script.js           
 │
-├── images/             # Weather icons and graphics
+├── images/             
 │
-├── README.md           # Project documentation
-└── other-resources/    # Additional assets or files
-
+├── README.md          
+└── other-resources/    
  Setup
 
 Clone the repository
