@@ -33,14 +33,17 @@ API: OpenWeatherMap (or similar weather data API)
 
 Styles: Custom CSS (Bootstrap if added)
 
-📁 Project Structure
 Weather-Prediction-Application-main/
-├── index.html
-├── style.css
-├── script.js
-├── images/                  # Icons / weather graphics
-├── README.md
-└── ...other resources
+│
+├── index.html        
+├── style.css           
+├── script.js           
+│
+├── images/             
+├── README.md           
+│
+└── other-resources/    
+
 
  Setup
 
