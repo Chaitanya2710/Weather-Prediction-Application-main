@@ -32,6 +32,7 @@ API: OpenWeatherMap (or similar weather data API)
 Styles: Custom CSS (Bootstrap if added)
 
 Weather-Prediction-Application-main/
+
 │
 ├── index.html          
 ├── style.css           
