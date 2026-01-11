@@ -8,13 +8,11 @@ A simple Weather Prediction web app that displays current weather information an
 This project uses HTML, CSS, and JavaScript to build a frontend user interface that fetches live weather data from a weather API and shows it in an easy-to-read format. It may also include basic prediction features for short-term weather trends.
 
  Features
-
-✔ Fetch and display current weather for a city
-✔ Shows temperature, humidity, wind speed, and conditions
-✔ Responsive layout for desktop & mobile devices
-✔ Easy-to-use search field for entering city names
-✔ (Optional — add if implemented) Short-term weather prediction using historical data
-
+- Real-time weather data retrieval using a public API  
+- Detailed weather metrics including temperature, humidity, wind speed, and conditions  
+- Fully responsive UI optimized for desktop and mobile screens  
+- Intuitive city-based search functionality  
+- Scalable architecture to support future weather prediction features
  How It Works
 
 User enters a city name in the search bar.
